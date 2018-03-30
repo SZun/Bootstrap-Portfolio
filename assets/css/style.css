@@ -1,5 +1,19 @@
 /* ADD TONS!!!!!!*/
-
+body {
+    min-width: 100%;
+    min-height: 100%;
+}
+html {
+    min-width: 100%;
+    min-height: 100%;
+}
+.navbar {
+    height: 61px;
+}
+.top {
+    height: 40px;
+    border-bottom: 1px solid #777777;
+}
 .nextPage {
     color: #777777;
     font-size: 18px;
@@ -12,32 +26,37 @@
 #nameText {
     color: #FFFFFF !important;
     background: #4aaaa5 !important;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    width: 125%;
+
 }
-.aboutMeBox {
-    width: 960px;
-    background: #FFFFFF;
-    border: 1px solid #777777;
-    margin-left: 40px;
-}
+
 #mePic {
-    height: 10%;
-    width: 10%;
+    width: 50%;
+    margin: 20px 20px;
+    padding-right: 40px;
 }
 #aboutMeDivider {
     border-top: 1px solid #777777;
     width: 800px;
 }
 .contactMeBox {
-    height: 200px;
-    width: 200px;
+
     background: white;
-    color:#4aaaa5;
-    border: 1px solid #777777;
-}
-.headers {
     color: #4aaaa5;
+    border: 1px solid #777777;
+    float: right;
+    height: 160px;
+    margin: 2% -.2%;
 }
-.logos {
+.aboutMeBox {
+    background: #FFFFFF;
+    border: 1px solid #777777;
+    margin: 3% .5%;
+}
+#logos {
     height: 50px;
     width: 50px;
 }
@@ -46,5 +65,21 @@
     background: #777777;
     color: white;
     margin: 0 auto;
+    text-align: center;
+    padding: 0 0;
+}
+#aboutText {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777
+}
+.headers {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.links {
+    color: #777777;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 /* Begin Portfolio*/
