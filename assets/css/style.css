@@ -1,0 +1,50 @@
+/* ADD TONS!!!!!!*/
+
+.nextPage {
+    color: #777777;
+    font-size: 18px;
+}
+.lineSpacers {
+    border-right: 1px solid #dddddd;
+    height: 18px; 
+    margin-top: 16px;
+}
+#nameText {
+    color: #FFFFFF !important;
+    background: #4aaaa5 !important;
+}
+.aboutMeBox {
+    width: 960px;
+    background: #FFFFFF;
+    border: 1px solid #777777;
+    margin-left: 40px;
+}
+#mePic {
+    height: 10%;
+    width: 10%;
+}
+#aboutMeDivider {
+    border-top: 1px solid #777777;
+    width: 800px;
+}
+.contactMeBox {
+    height: 200px;
+    width: 200px;
+    background: white;
+    color:#4aaaa5;
+    border: 1px solid #777777;
+}
+.headers {
+    color: #4aaaa5;
+}
+.logos {
+    height: 50px;
+    width: 50px;
+}
+.copyrightFooter {
+    border-top: 4px solid #4aaaa5;
+    background: #777777;
+    color: white;
+    margin: 0 auto;
+}
+/* Begin Portfolio*/
