@@ -1,4 +1,3 @@
-/* ADD TONS!!!!!!*/
 body {
     min-width: 100%;
     min-height: 100%;
@@ -22,7 +21,6 @@ html {
 .lineSpacers {
     border-right: 1px solid #dddddd;
     height: 18px; 
-    margin-top: 16px;
 }
 #nameText {
     color: #FFFFFF !important;
@@ -44,13 +42,13 @@ html {
 .contactMeBox {
     background: white;
     color: #4aaaa5;
-    border: 1px solid #777777;
+    border: 1px solid #dddddd;
     height: 160px;
     margin: 35px 40px;
 }
 .aboutMeBox {
     background: #FFFFFF;
-    border: 1px solid #777777;
+    border: 1px solid #dddddd;
     margin: 35px 45px;
 }
 #logos {
@@ -83,10 +81,9 @@ html {
 #copyrightText {
     margin-top: 30px;
 }
-/* Begin Contact*/
 .contactBox {
     background: #FFFFFF;
-    border: 1px solid #777777;
+    border: 1px solid #dddddd;
     margin: 35px 45px;
 }
 #typedInfo {
@@ -104,10 +101,13 @@ html {
     width: 70px;
     padding: 4px 12px;
 }
-/* Begin Portfolio*/
+.boxHeader {
+    border-top: 1px solid #dddddd;
+}
+
 .portfolioBox {
     background: #FFFFFF;
-    border: 1px solid #777777;
+    border: 1px solid #dddddd;
     margin: 35px 45px;
     padding-bottom: 10px;
 }
